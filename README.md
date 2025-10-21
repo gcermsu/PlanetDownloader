@@ -1,4 +1,4 @@
-# Planet Image Downloader
+# PlanetScope Image Downloader
 <img align="right" width="250" alt="Planet Image Downloader" src="https://github.com/user-attachments/assets/ae23f308-96f4-4968-ac77-a825a2d94718" />
 
 Planet Image Downloader is a Python package that simplifies access to PlanetScope SuperDove imagery through the Planet Data API. It provides two main functions:
